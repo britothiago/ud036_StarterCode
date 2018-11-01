@@ -143,7 +143,7 @@ def create_movie_tiles_content(movies):
 
         # Append the tile for the movie with its content filled in
         content += movie_tile_content.format(
-            movie_title=movie.titulo,
+            movie_title="Filme: " + movie.titulo + "<br>Elenco: " + movie.elenco,
             poster_image_url=movie.cartaz,
             trailer_youtube_id=trailer_youtube_id
         )
