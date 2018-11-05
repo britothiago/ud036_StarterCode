@@ -4,10 +4,11 @@ Este projeto é um exercício realizado para a Udacity do Nanodegree de Desevolv
 
 ## INSTALAÇÃO
 
-Clone o repositório do branch thiago para baixar os arquivos na mesma pasta
+Clone o repositório para baixar os arquivos na mesma pasta
 
 `$ git clone https://github.com/britothiago/ud036_StarterCode/tree/thiago`
 
+*Utilizada a versão 3.7.0 do Python*
 
 ## ESTRUTURA
 
